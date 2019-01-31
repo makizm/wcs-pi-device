@@ -1,0 +1,18 @@
+{
+  "name": "wcs-pi-device",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Leychenko",
+  "license": "ISC",
+  "devDependencies": {
+    "debug": "^4.1.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "rpi-gpio": "^2.1.2"
+  }
+}
